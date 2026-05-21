@@ -12,5 +12,6 @@ Bipin Gaikwad, Shraddha Singh, Manasvita Joshi, Nikolay Simakov, Thomas Furlani,
 Title: Analyzing HPC Job Wait Times under Resource Scaling Using Historical Workload Data
 Authors: Bipin Gaikwad, Shraddha Singh, Manasvita Joshi, Nikolay Simakov, Thomas Furlani, Joseph White, Abani Patra
 Conference: Practice and Experience in Advanced Research Computing, 2026: The Power of Collaboration
+
 DOI: 10.1145/3785462.3815898
 
