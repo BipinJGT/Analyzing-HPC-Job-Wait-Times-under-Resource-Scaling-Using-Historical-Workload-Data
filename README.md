@@ -6,7 +6,7 @@ You may also download the data using XDMod with the help of the notebooks found 
 
 If you use this code, please cite the paper:
 
-Bipin Gaikwad, Shraddha Singh, Manasvita Joshi, Nikolay Simakov, Thomas Furlani, Joseph White, Abani Patra. "Analyzing HPC Job Wait Times under Resource Scaling Using Historical Workload Data", Practice and Experience in Advanced Research Computing, 2026: : The Power of Collaboration
+Bipin Gaikwad, Shraddha Singh, Manasvita Joshi, Nikolay Simakov, Thomas Furlani, Joseph White, Abani Patra. "Analyzing HPC Job Wait Times under Resource Scaling Using Historical Workload Data", Practice and Experience in Advanced Research Computing, 2026: The Power of Collaboration
 
 
 Title: Analyzing HPC Job Wait Times under Resource Scaling Using Historical Workload Data
